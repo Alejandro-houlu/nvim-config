@@ -79,6 +79,11 @@ _G.packer_plugins = {
     path = "/home/alejandro/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
+  ["calendar.vim"] = {
+    loaded = true,
+    path = "/home/alejandro/.local/share/nvim/site/pack/packer/start/calendar.vim",
+    url = "https://github.com/itchyny/calendar.vim"
+  },
   ["cmp-buffer"] = {
     loaded = true,
     path = "/home/alejandro/.local/share/nvim/site/pack/packer/start/cmp-buffer",
