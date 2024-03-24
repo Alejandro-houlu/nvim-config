@@ -24,7 +24,7 @@ return require('packer').startup(function(use)
   use ('mbbill/undotree')
   use ('tpope/vim-fugitive')
   use ('mfussenegger/nvim-dap')
-
+  use ('preservim/nerdtree')
   use {
   'VonHeikemen/lsp-zero.nvim',
   requires = {
@@ -49,6 +49,7 @@ return require('packer').startup(function(use)
     {'j-hui/fidget.nvim'},
 
     {'folke/neodev.nvim'},
+
   }
 }
   end)

@@ -149,6 +149,11 @@ _G.packer_plugins = {
     path = "/home/alejandro/.local/share/nvim/site/pack/packer/start/neodev.nvim",
     url = "https://github.com/folke/neodev.nvim"
   },
+  nerdtree = {
+    loaded = true,
+    path = "/home/alejandro/.local/share/nvim/site/pack/packer/start/nerdtree",
+    url = "https://github.com/preservim/nerdtree"
+  },
   ["nvim-cmp"] = {
     loaded = true,
     path = "/home/alejandro/.local/share/nvim/site/pack/packer/start/nvim-cmp",
@@ -211,10 +216,10 @@ _G.packer_plugins = {
     path = "/home/alejandro/.local/share/nvim/site/pack/packer/start/vim-fugitive",
     url = "https://github.com/tpope/vim-fugitive"
   },
-  vimkiki = {
+  vimwiki = {
     loaded = true,
-    path = "/home/alejandro/.local/share/nvim/site/pack/packer/start/vimkiki",
-    url = "https://github.com/vimwiki/vimkiki"
+    path = "/home/alejandro/.local/share/nvim/site/pack/packer/start/vimwiki",
+    url = "https://github.com/vimwiki/vimwiki"
   }
 }
 
